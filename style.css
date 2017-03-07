@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(white,#b8e4f2 100px, #cafcff);
+    background: linear-gradient(white, #c8ffff 75px, #e2fffa);
     min-height:100vh;
     margin:0;
     font-family: "Mplus 1p";
@@ -45,7 +45,10 @@ img.emoji {
 #right{
     float: right;
     width:300px;
-    padding:10px;
+    height: 550px;
+    margin:10px;
+    box-shadow: 0px 0px 10px #d2d2d2;
+    border-radius: 4px;
 }
 #icon{
     width:150px;
