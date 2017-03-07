@@ -2,6 +2,7 @@ body{
     background: linear-gradient(#b8e4f2,white);
     min-height:100vh;
     margin:0;
+    font-family: "Mplus 1p";
 }
 p{
     margin:5px;
@@ -28,7 +29,7 @@ td{
     position: relative;
     width:1000px;
     margin:auto;
-    padding-top:20px;
+    padding-top:40px;
 }
 #left{
     float: left;
