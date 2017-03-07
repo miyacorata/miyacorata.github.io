@@ -1,0 +1,2 @@
+# miyacorata.github.io
+リポジトリってことばかっこいい
