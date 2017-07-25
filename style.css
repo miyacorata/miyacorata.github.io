@@ -2,7 +2,7 @@ body{
     background: linear-gradient(white, #c8ffff 75px, #e2fffa);
     min-height:100vh;
     margin:0;
-    font-family: "Mplus 1p";
+    font-family: Meiryo,"Mplus 1p";
 }
 p{
     margin:5px;
@@ -13,6 +13,11 @@ h2{
     border-bottom: solid 1px skyblue;
     padding: 3px 10px;
     margin: 10px 0;
+}
+h3{
+    margin: 7px 0;
+    font-size: 17px;
+    border-bottom: dashed 1px skyblue;
 }
 table{
     border: none;
